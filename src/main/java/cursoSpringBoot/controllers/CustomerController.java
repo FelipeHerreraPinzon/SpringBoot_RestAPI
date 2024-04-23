@@ -1,6 +1,6 @@
 package cursoSpringBoot.controllers;
 
-import cursoSpringBoot.domain.Customer;
+import cursoSpringBoot.models.Customer;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 

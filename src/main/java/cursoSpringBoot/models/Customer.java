@@ -1,4 +1,4 @@
-package cursoSpringBoot.domain;
+package cursoSpringBoot.models;
 // Clase POJO
 public class Customer {
 
